@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>Image segmentation</title>
+  <style>
+    h1 {
+      text-align: center;
+    }
+  </style>
+</head>
+
+<body bgcolor='white' text='black'>
+  <div style="display: inline-block;">
+    <form action="/" , method="post" , enctype="multipart/form-data">
+      Upload the image :<input type="file" name="imagefile">
+      <p><input type="submit" value="Predict image"></p>
+    </form>
+    <img src="{{ input_image }}" height="280px" width="400px">
+  </div>
+  <div style="display: inline-block;">
+    <h1>Result</h1>
+    <img src="{{ output_image }}" height="280px" width="400px">
+  </div>
+</body>
+
+</html>
