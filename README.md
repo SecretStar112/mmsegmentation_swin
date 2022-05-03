@@ -15,3 +15,6 @@ Notes:
 Navigate to <a href="https://github.com/Slava-git/mmsegmentation_swin/blob/master/Flask_app.ipynb"> flask app</a> to make prediction in web  
 Note:
 * Do not forget put your ngrok token
+
+# Results
+Refer to [youtube](https://youtu.be/XwDpAf7UP_4).
