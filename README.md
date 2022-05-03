@@ -18,3 +18,10 @@ Note:
 
 # Results
 Refer to [youtube](https://youtu.be/XwDpAf7UP_4).
+
+| Name                           | mAcc          |mIoU           | Model                                                                                        |
+| -------------                  |:-------------:|:-------------:| -----:                                                                                       |
+| swin_tiny_patch4_window7_224   | 0.9291        | 0.7851        | [model](https://drive.google.com/file/d/1-Qn7ksEGIn9nDqjWNRIu36U36MLPMjaE/view?usp=sharing)  |
+| swin_base_patch4_window7_224   | 0.9015        | 0.7319        | [model](https://drive.google.com/file/d/1-D-lRnTU1X9QvlgDDwXZXYWlz3z4ipBZ/view?usp=sharing)  |
+| fcn_r101_d8                    | 0.9798        | 0.9009        | [model](https://drive.google.com/file/d/1-UNojbH90Er29AfRZ9nkwCmA_x3gZPIo/view?usp=sharing)  |
+| pspnet_r50-d8                  | 0.9611        | 0.9356        | [model](https://drive.google.com/file/d/1-FDtI81kBM3uEoSLFWr4LzgwQuWZTUuB/view?usp=sharing)  |
