@@ -5,7 +5,7 @@ The goal is to do semantic segmentation on photos that can include one or more p
 ## Dataset source
 The dataset is available on download [here](https://www.kaggle.com/datasets/tapakah68/segmentation-full-body-tiktok-dancing-dataset)
 ## Dataset preparation
-In order to create labeled data I converted masks to label format [0,1].  
+In order to create annotation data I converted masks to label format [0,1].  
 The file structure of the dataset is shown below:
 ```none
 ├── data
